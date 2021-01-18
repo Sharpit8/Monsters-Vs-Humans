@@ -1,0 +1,4 @@
+timer=2
+color=global.colorA
+particuletimermax=1
+particuletimer=particuletimermax

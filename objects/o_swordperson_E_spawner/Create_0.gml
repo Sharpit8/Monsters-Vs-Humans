@@ -1,0 +1,1 @@
+timer=irandom_range(0,100)
